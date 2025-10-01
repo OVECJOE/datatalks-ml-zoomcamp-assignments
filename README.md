@@ -1,4 +1,4 @@
-# datatalks-ml-zoomcamp-assignments
+# My ML Zoomcamp Homework Solutions for 2025
 
 | Homework | Solutions |
 | -------- | --------- |
